@@ -1,1 +1,1 @@
-# permissions_postgresql
+# permissions_postgreSQL
